@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "快捷回复条",
+    "description": "输入框上方一个小按钮，点开是一排短语，点一下直接发出。可自由增删改。",
+    "detail": "docs/DETAIL.md"
+  }
+}

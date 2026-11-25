@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Quick reply bar",
+    "description": "One small button above the composer; expand it to a row of phrases and a click sends one. Fully editable.",
+    "detail": "docs/DETAIL.en.md"
+  }
+}
