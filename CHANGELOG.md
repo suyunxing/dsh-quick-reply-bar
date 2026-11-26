@@ -4,12 +4,14 @@
 
 发布流程修正，插件行为不变。
 
-- CI 在发布前把 npm 升到 11（Node 22 自带的 npm 10 不支持 OIDC 可信发布），修掉发布时 E404 is not in this registry。
-## 1.0.1 — 2026-11-26
+- CI 在发布前把 npm 升到 11（Node 22 自带的 npm 10 不支持 OIDC 可信发布），修掉发布时 `E404 is not in this registry`。
+
+### English
 
 Release-pipeline fix only; plugin behaviour is unchanged.
 
-- CI now upgrades npm to 11 before publishing (Node 22 ships npm 10, which cannot do OIDC trusted publishing), fixing the E404 is not in this registry failure.
+- CI now upgrades npm to 11 before publishing (Node 22 ships npm 10, which cannot do OIDC trusted publishing), fixing the `E404 is not in this registry` failure.
+
 ## 1.0.0 — 2026-11-25
 
 首个公开版本。
@@ -25,12 +27,14 @@ Release-pipeline fix only; plugin behaviour is unchanged.
 
 发布流程修正，插件行为不变。
 
-- CI 在发布前把 npm 升到 11（Node 22 自带的 npm 10 不支持 OIDC 可信发布），修掉发布时 E404 is not in this registry。
-## 1.0.1 — 2026-11-26
+- CI 在发布前把 npm 升到 11（Node 22 自带的 npm 10 不支持 OIDC 可信发布），修掉发布时 `E404 is not in this registry`。
+
+### English
 
 Release-pipeline fix only; plugin behaviour is unchanged.
 
-- CI now upgrades npm to 11 before publishing (Node 22 ships npm 10, which cannot do OIDC trusted publishing), fixing the E404 is not in this registry failure.
+- CI now upgrades npm to 11 before publishing (Node 22 ships npm 10, which cannot do OIDC trusted publishing), fixing the `E404 is not in this registry` failure.
+
 ## 1.0.0 — 2026-11-25
 
 First public release.
