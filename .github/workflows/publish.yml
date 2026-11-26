@@ -42,5 +42,8 @@ jobs:
         with:
           node-version: 22
           registry-url: https://registry.npmjs.org
+      - name: npm 11 (OIDC 可信发布需要 >= 11.5.2，Node 22 自带 npm 10)
+        run: npm install -g npm@11
       - name: Publish
         run: npm publish --access public --provenance
+
